@@ -57,7 +57,7 @@
                         </div> -->
 
                         <div class="form-group col-sm-6">
-                            <label>Isi Tanggapan</label>
+                            <label>Balasan</label>
                             <textarea type="text" name="isi_tanggapan" rows="7" class="form-control" readonly><?= $data['tanggapan'] ?></textarea>
                         </div>
 
